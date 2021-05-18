@@ -1,0 +1,60 @@
+nav li{
+  display: inline-block;
+  margin: 0 0 0 15px;
+  padding: 30px;
+  
+
+}
+
+nav a{
+  font-weight: bold;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color:black;
+  position: relative;
+  right: 360px;
+  
+
+}
+header{
+  background-color:#d4d4d4;
+  padding: 20px 0;
+  display: block;
+  width: auto;
+  height: 250px;
+  border: 3px solid #371f41;
+ 
+
+}
+
+.caixa{
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+nav{
+  position: absolute;
+  top: 180px;
+  right:250px;
+  
+}
+#dragaologo{
+  position: absolute;
+  right: 72rem;
+}
+.fundo{
+ 
+  background-color: #d4d4d4;
+  
+}
+#dragao{
+  position: absolute;
+  left: 800px;
+}
+.paragrafo{
+  margin-top: 200px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: serif;
+}
